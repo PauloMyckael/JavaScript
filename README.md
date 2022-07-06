@@ -1,1 +1,1 @@
-# Tudo relacionado aos meus projetos feitos em JS
+# Todos os meus projetos feitos com JS
